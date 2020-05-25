@@ -33,7 +33,7 @@ Para fazer tudo funcionar o escalonador conta com três timers internos:
 
 ## Usando o escalonador
 
-Para usar o escalonador é bem simples, [acesse este link](https://mkautzmann.github.io/cirularporprioridade).
+Para usar o escalonador é bem simples, [acesse este link](https://jonathanmicael.github.io/circular.io).
 
 Logo que você acessar o Escalonador você irá encontrar os controles da simulação. Cada um deles influi em de uma forma diferente na simulação.
 
