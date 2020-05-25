@@ -1,0 +1,30 @@
+.vermelho {
+  color: #F00;
+}
+
+.amarelo {
+  color: #FFC700;
+}
+
+.azul {
+  color: #0B61A4;
+}
+
+.verde {
+  color: #008209;
+}
+
+.preto {
+  color: #000;
+}
+footer {
+  width: 100%;
+  height: 30px;
+  background: #333;
+}
+
+footer p {
+  text-align: center;
+  font-size: 1em;
+  color: #FFF;
+}
